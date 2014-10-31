@@ -1,11 +1,11 @@
 /*!
-Theme Name: Arcade Basic
-Theme URI: https://themes.bavotasan.com/2014/arcade/
-Author: c.bavota
-Author URI: http://bavotasan.com/
-Description: Create a truly unique design with Arcade, a lightweight and fully responsive HTML5 theme. Use the theme customizer to add your own header image, page layout, site width and more. Distinguish each post with one of the eight supported post formats, such as: Video, Image, Aside, Status, Audio, Quote, Link and Gallery. Install JetPack to display each of your galleries through a tiled view and jQuery carousel. Compatible with bbPress & BuddyPress. Built using SASS, Compass and Bootstrap 3. Uses Google Fonts for improved typeface readability and works perfectly in desktop browsers, tablets and handheld devices. For a live demo go to http://demos.bavotasan.com/arcade/.
-Version: 1.0.4.1
-Text Domain: arcade
+Theme Name: Monkey Mob Adois
+Theme URI: 
+Author: monkeymob
+Author URI: http://monkeymob.com/
+Description: Monkey Mob Adois foi desenvolvio para a empresa Adois Design
+Version: 1.0
+Text Domain: monkeymobadois
 Domain Path: /library/languages/
 Tags: black, blue, gray, silver, white, light, one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, responsive-layout, buddypress, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 
@@ -3929,9 +3929,7 @@ textarea.input-group-sm > .input-group-btn > .comment-reply-link,
   }
 }
 .navbar-collapse {
-  max-height: 340px;
-  padding-right: 15px;
-  padding-left: 15px;
+  max-height: 340px;  
   overflow-x: visible;
   border-top: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
@@ -4087,6 +4085,7 @@ textarea.input-group-sm > .input-group-btn > .comment-reply-link,
 }
 .navbar-nav {
   margin: 7.5px -15px;
+  width: 100%;
 }
 
 .navbar-nav > li > a {
@@ -4124,6 +4123,7 @@ textarea.input-group-sm > .input-group-btn > .comment-reply-link,
   .navbar-nav {
     float: left;
     margin: 0;
+    width: 100%;
   }
 
   .navbar-nav > li {
@@ -4351,10 +4351,6 @@ textarea.input-group-sm > .input-group-btn > .comment-reply-link,
   color: #333333;
 }
 
-.navbar-inverse {
-  background-color: #222222;
-  border-color: #080808;
-}
 
 .navbar-inverse .navbar-brand {
   color: #999999;
@@ -4384,7 +4380,6 @@ textarea.input-group-sm > .input-group-btn > .comment-reply-link,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #080808;
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
@@ -7010,15 +7005,17 @@ input, textarea {
 
 .navbar-inverse {
   text-align: left;
-  background: rgba(0, 0, 0, 0.6);
   border: 0;
+  width: 865px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .navbar-inverse.black {
-  background: rgba(0, 0, 0, 0.85);
+  
 }
 @media (max-width: 480px) {
   .navbar-inverse {
-    background: rgba(0, 0, 0, 0.85);
+    
   }
 }
 

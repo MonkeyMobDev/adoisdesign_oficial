@@ -1,11 +1,11 @@
-= Arcade Basic =
+= Monkey Mob Adois =
 
-* Created by Themes by bavotasan.com - http://themes.bavotasan.com/
-* Built by c.bavota http://bavotasan.com/
+* Created by Themes by monkeymob.com.br - http://monkeymob.com.br
+* Built by monkey http://monkeymob.com.br/
 
-== ABOUT ARCADE BASIC ==
+== MONKEY MOB ADOIS ==
 
-Create a truly unique design with Arcade, a lightweight and fully responsive HTML5 theme. Use the theme customizer to add your own header image, page layout, site width and more. Distinguish each post with one of the eight supported post formats, such as: Video, Image, Aside, Status, Audio, Quote, Link and Gallery. Install JetPack to display each of your galleries through a tiled view and jQuery carousel. Compatible with bbPress & BuddyPress. Built using SASS, Compass and Bootstrap 3. Uses Google Fonts for improved typeface readability and works perfectly in desktop browsers, tablets and handheld devices. For a live demo go to http://demos.bavotasan.com/arcade/.
+Monkey Mob Themes...!
 
 == NOTES ==
 
@@ -63,44 +63,8 @@ License: Public domain/No copyright
 
 == CHANGELOG ==
 
-06/12/2014 v1.0.4.1
+30/10/2014 v0.1
 * Fix for missing icon from widget
 
-06/11/2014 v1.0.4
-* Tweaked CSS for custom widget
-* Fixed custom header image on blog/attachment pages
-* Fixed jumbo headline validation
-* Fixed for RTL menu
-* Updated Font Awesome to 4.1.0
-* Validated custom widget
-* Added fittext option
-* Added post block page template
-* Updated language file
 
-03/05/2014 v1.0.3
-* Removed "From the Blog" when static front page is set
-* Updated archive meta
-* Added validation to front page
-* Fixed no arc bug
-* Added iframe max-width CSS
-* Fixed blog page loop bug
-* Syntax fix for header function
-
-02/05/2014 v1.0.2
-* Added microformats
-* Removed accessibility tag
-* Updated editor styles
-* Fixed arctext for RTL
-* Added HTML entities decode to textarea-filled elements
-* Sanitized customizer
-* Added image license
-* Removed 404 image, updated functions and CSS
-* Included HTML5 shiv file
-* Added body class through function
-
-02/04/2014 v1.0.1
-* Added instructions for arc radius and option to remove
-* Added clearfix to entry content and entry footer
-* Updated language file
-
-Public Release 02/03/2014
+Public Release 30/10/2014
